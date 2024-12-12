@@ -103,3 +103,5 @@ output_gpu.txt
 output.txt
 todos.md
 try*.txt
+
+!src/data
